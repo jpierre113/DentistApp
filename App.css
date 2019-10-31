@@ -1,0 +1,41 @@
+
+nav{
+  display: flex;
+  justify-content: space-around;
+  padding-top: 15px;
+  background-color: #5edfff;
+  padding-bottom: 10px;
+
+
+}
+
+.link{
+  text-decoration: none;
+  color: #233567;
+}
+
+.row {
+  display: flex;
+  flex-direction: row-reverse;
+  flex-wrap: wrap;
+  width: 75%;
+  margin-top: 50px;
+
+
+}
+
+.column {
+  flex-direction: column;
+  padding-left: 30px;
+  text-align: center;
+
+}
+
+img{
+  height: 300px;
+  width: 300px;
+}
+
+h1{
+  color: #233567;
+}
